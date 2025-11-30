@@ -49,8 +49,8 @@ I am a results-driven **Full Stack Java Developer** and a 2024 **BCA Graduate**.
 
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **📝 [Notes Application](https://github.com/techiviju/Notes-Application)** | A secure, full-stack notes management system with Admin/User roles, JWT Auth, and encrypted storage. | Spring Boot, React, MySQL | [**View Code**](https://github.com/techiviju/Notes-Application) |
-| **🏥 Doctor Portal** | Digital healthcare platform for patient appointment booking and doctor management. | Java, Servlet, JSP, JDBC | [**View Code**](https://github.com/techiviju) |
+| **📝 [Notes Application](https://notes-app-net.netlify.app/login)** | A secure, full-stack notes management system with Admin/User roles, JWT Auth, and encrypted storage. | Spring Boot, React, MySQL | [**View Code**](https://github.com/techiviju/Notes-Application) |
+| **🏥 [Doctor Portal](https://doctor-patient-portal-08hh.onrender.com/)** | Digital healthcare platform for patient appointment booking and doctor management. | Java, Servlet, JSP, JDBC | [**View Code**](https://github.com/techiviju) |
 | **🌐 Portfolio Website** | A personal professional portfolio showcasing my resume and projects interactively. | React, Tailwind CSS | [**Live Demo**](YOUR-PORTFOLIO-LINK-HERE) |
 
 ---
