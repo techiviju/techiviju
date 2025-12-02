@@ -23,18 +23,18 @@
 
 ---
 
-### 👨‍💻 **About Me**
+### **About Me**
 
 I am a results-driven **Full Stack Java Developer** and a 2024 **BCA Graduate**. I specialize in building secure backend systems with **Spring Boot** and dynamic user interfaces with **React**. I am passionate about clean code, REST APIs, and solving real-world problems.
 
-* 🔭 **Currently Working on:** Advanced Microservices & Docker containerization.
-* 🌱 **Currently Learning:** Cloud Deployment (AWS/Azure) & System Design.
-* 💼 **Looking for:** Opportunities as a **Java Developer / Full Stack Engineer**.
-* ⚡ **Fun Fact:** I treat `NullPointerExceptions` as personal challenges, not errors.
+* **Currently Working on:** Advanced Microservices & Docker containerization.
+* **Currently Learning:** Cloud Deployment (AWS/Azure) & System Design.
+* **Looking for:** Opportunities as a **Java Developer / Full Stack Engineer**.
+* **Fun Fact:** I treat `NullPointerExceptions` as personal challenges, not errors.
 
 ---
 
-### 🛠️ **Technical Arsenal**
+### **Technical Arsenal**
 
 | **Category** | **Technologies** |
 | :--- | :--- |
@@ -45,17 +45,17 @@ I am a results-driven **Full Stack Java Developer** and a 2024 **BCA Graduate**.
 
 ---
 
-### 🚀 **Featured Projects**
+### **Featured Projects**
 
 | Project Name | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :---: |
-| **📝 [Notes Application](https://notes-app-net.netlify.app/login)** | A secure, full-stack notes management system with Admin/User roles, JWT Auth, and encrypted storage. | Spring Boot, React, MySQL | [**View Code**](https://github.com/techiviju/Notes-Application) |
-| **🏥 [Doctor Portal](https://doctor-patient-portal-08hh.onrender.com/)** | Digital healthcare platform for patient appointment booking and doctor management. | Java, Servlet, JSP, JDBC | [**View Code**](https://github.com/techiviju) |
-| **🌐 Portfolio Website** | A personal professional portfolio showcasing my resume and projects interactively. | React, Tailwind CSS | [**Live Demo**](YOUR-PORTFOLIO-LINK-HERE) |
+| **[Notes Application](https://notes-app-net.netlify.app/login)** | A secure, full-stack notes management system with Admin/User roles, JWT Auth, and encrypted storage. | Spring Boot, React, MySQL | [**View Code**](https://github.com/techiviju/Notes-Application) |
+| **[Doctor Portal](https://doctor-patient-portal-08hh.onrender.com/)** | Digital healthcare platform for patient appointment booking and doctor management. | Java, Servlet, JSP, JDBC | [**View Code**](https://github.com/techiviju/Doctor-Patient-Project) |
+| **[Portfolio Website](https://vijaychportfolio.netlify.app/)** | A personal professional portfolio showcasing my resume and projects interactively. | React, Tailwind CSS | [**View Code**](https://github.com/techiviju/Portfolio) |
 
 ---
 
-### 📊 **GitHub Analytics**
+### **GitHub Analytics**
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=techiviju&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=E25D1A&currStreakLabel=58A6FF" alt="Streak Stats" />
